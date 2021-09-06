@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<account_config>
+  <account>
+    <number>12987053</number>
+    <limit>500</limit>
+    <status>00000</status>
+    <substatus_code>00002</substatus_code>
+    <substatus_text>Invalid Data</substatus_text>
+  </account>
+  <account>
+    <number>12987054</number>
+    <limit>500</limit>
+    <status>00000</status>
+    <substatus_code>00003</substatus_code>
+    <substatus_text>Amount exceeded limit</substatus_text>
+  </account>
+  <account>
+    <number>12987055</number>
+    <limit>500</limit>
+    <status>00000</status>
+    <substatus_code>00004</substatus_code>
+    <substatus_text>Account closed</substatus_text>
+  </account>
+  <account>
+    <number>12987056</number>
+    <limit>500</limit>
+    <status>00000</status>
+    <substatus_code>00005</substatus_code>
+    <substatus_text>Nonexistent account</substatus_text>
+  </account>
+  <account>
+    <number>12987057</number>
+    <limit>500</limit>
+    <status>00000</status>
+    <substatus_code>00006</substatus_code>
+    <substatus_text>Blocked account</substatus_text>
+  </account>
+  <account>
+    <number>12987066</number>
+    <limit>500</limit>
+    <status>00000</status>
+    <substatus_code>00007</substatus_code>
+    <substatus_text>Customer number does not match</substatus_text>
+  </account>
+  <account>
+    <number>12987058</number>
+    <limit>500</limit>
+    <status>00000</status>
+    <substatus_code>00008</substatus_code>
+    <substatus_text>Rejected by internal validation</substatus_text>
+  </account>
+  <account>
+    <number>12987060</number>
+    <limit>500</limit>
+    <status>00000</status>
+    <substatus_code>00009</substatus_code>
+    <substatus_text>Currency does not correspond</substatus_text>
+  </account>
+  <account>
+    <number>12987061</number>
+    <limit>500</limit>
+    <status>00000</status>
+    <substatus_code>00010</substatus_code>
+    <substatus_text>Transaction not authorized by client</substatus_text>
+  </account>
+  <account>
+    <number>12987062</number>
+    <limit>500</limit>
+    <status>01000</status>
+    <substatus_code>01001</substatus_code>
+    <substatus_text>System Error</substatus_text>
+  </account>
+  <account>
+    <number>12987063</number>
+    <limit>500</limit>
+    <status>01000</status>
+    <substatus_code>01002</substatus_code>
+    <substatus_text>Authentication Error</substatus_text>
+  </account>
+  <account>
+    <number>12987064</number>
+    <limit>500</limit>
+    <status>01000</status>
+    <substatus_code>01004</substatus_code>
+    <substatus_text>Data Base Error</substatus_text>
+  </account>
+  <account>
+    <number>12987065</number>
+    <limit>500</limit>
+    <status>40000</status>
+    <substatus_code>40002</substatus_code>
+    <substatus_text>Transaction waiting to be processed</substatus_text>
+  </account>
+</account_config>
